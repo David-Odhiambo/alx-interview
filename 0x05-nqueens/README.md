@@ -1,1 +1,1 @@
-NQUEENS
+nqueens
